@@ -18,8 +18,8 @@
   "plugins": ["@typescript-eslint", "eslint-plugin-import-helpers", "prettier"],
   "rules": {
     "camelcase": "off",
-    "quotes": ["error", "double"],
-    "double": { "allowTemplateLiterals": true },
+    // "quotes": ["error", "double"],
+    // "double": { "allowTemplateLiterals": true },
     "import/no-unresolved": "error",
     "@typescript-eslint/naming-convention": [
       "error",
