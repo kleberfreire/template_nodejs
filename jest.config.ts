@@ -1,4 +1,4 @@
-import { pathsToModuleNameMapper } from "ts-jest/utils";
+import { pathsToModuleNameMapper } from "ts-jest";
 import { compilerOptions } from "./tsconfig.json";
 export default {
   // All imported modules in your tests should be mocked automatically
